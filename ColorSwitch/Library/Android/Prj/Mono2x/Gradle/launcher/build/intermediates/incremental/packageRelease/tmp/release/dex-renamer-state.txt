@@ -1,0 +1,4 @@
+#Thu Sep 09 20:30:11 IST 2021
+base.0=E\:\\unity projects\\ColorSwitch\\ColorSwitch\\Library\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
