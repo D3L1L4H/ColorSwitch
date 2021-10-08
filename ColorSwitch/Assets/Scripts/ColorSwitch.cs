@@ -13,7 +13,7 @@ public class ColorSwitch : MonoBehaviour {
 	void Update () {
 		
 	}
-
+	// on trigger
 	void OnTriggerEnter2D(Collider2D col){
 		if (col.gameObject.tag == "Player") {
 			GamePlayController.instance.ColorSwitcher ();
