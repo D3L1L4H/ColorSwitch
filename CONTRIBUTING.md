@@ -13,7 +13,7 @@ the maintainers of this repository before making a pull request.
 ## Issue Process
 
 1. Check if issue already exists.
-2. Create a new issue (in accordance with the template).
+2. Create a new issue.
 3. Add appropriate labels.
 4. Wait for it to be assigned.
 
